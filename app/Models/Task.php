@@ -7,5 +7,5 @@ use phpDocumentor\Reflection\DocBlock\Description;
 
 class Task extends Model
 {
-    protected $fillable = ['title', 'Description'];
+    protected $fillable = ['title', 'description'];
 }
